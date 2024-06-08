@@ -17,7 +17,7 @@ namespace Fundamentals
                     Console.WriteLine("Na Hamatan Jare");
                     break;
                 default:
-                    Console.WriteLine("No Match found try again");
+                    Console.WriteLine("No Match found try again.");
                     break;
             }
         }
